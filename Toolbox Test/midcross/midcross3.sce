@@ -4,9 +4,4 @@ t=1:length(x)
 midcrossvalue=midcross(x, t);
 disp(midcrossvalue)
 //output
-// !--error 4 
-//Undefined variable: upper
-//at line     185 of function statelevels called by :  
-//at line     137 of function midcross called by :  
-//midcrossvalue=midcross(x, t);
-//at line       4 of exec file called by :    
+//3.4924
