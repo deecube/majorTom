@@ -8,3 +8,4 @@
 ###pow2db
 ###slewrate
 ###levinson
+###db
