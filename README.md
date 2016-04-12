@@ -9,3 +9,4 @@
 ###slewrate
 ###levinson
 ###db
+###mag2db
