@@ -11,3 +11,4 @@ disp(k);
  
 //    27.234557  
  
+//Negative values of a should be mapped to NaN
