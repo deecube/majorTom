@@ -1,5 +1,4 @@
-
-//check o/p when a null matrix is passed as i/p
+//check o/p when a matrix containing elements of type double is passed as i/p
 z=[0.23 0.233 0.34;0.56 0.34 0.12;0.34 0 0.986];
 [k,R0] = ac2rc(z);
 disp(k);
