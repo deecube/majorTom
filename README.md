@@ -10,3 +10,5 @@
 ###levinson
 ###db
 ###mag2db
+###peak2rms
+###rc2poly
